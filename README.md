@@ -1,12 +1,14 @@
 ## Функциональные стримы
 
+### Поддержите PR реакцией или комментарием
+[Add Flux.unfold #3897](https://github.com/reactor/reactor-core/pull/3897)
+
 ### Моделирование процессов на Java
 Дополнение к докладу: примеры кода и материалы, показывающие, как использовать стримы на Java для моделирования процессов, управления временем и состоянием.
 
 ### Задача
 * Хранить данные по средней температуре за каждый час (41 измерений в час)
 * Ограничение на количество вызовов к сервису погоды — 1000 запросов в сутки (в среднем запрос в 87 секунды)
-
 
 ### Коротко о погоде
 * Один Log на время жизни программы
@@ -42,6 +44,9 @@ Leaving the Log scope
 ### Почитать
 * [Machines](https://www.dropbox.com/scl/fi/uleqqg81r41iz74ifj79h/Machines.pdf), Rúnar Óli Bjarnason
 * [Folds and unfolds all around us](http://conal.net/talks/folds-and-unfolds.pdf), Conal Elliott
+
+### Посмотреть
+[DDDamn good! на Joker 2021](https://vk.com/video-796_456240246)
 
 ### Благодарности
 * [Александр Нозик](https://jokerconf.com/persons/c40622f2dc3a44169290f05771792410/)
