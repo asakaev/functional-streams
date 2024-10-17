@@ -1,5 +1,7 @@
 ## Функциональные стримы
 
+[Доклад на Joker 2024](https://jokerconf.com/talks/381e52f950f44e738836922e753f6818/).
+
 ### Поддержите PR реакцией или комментарием
 [Add Flux.unfold #3897](https://github.com/reactor/reactor-core/pull/3897)
 
