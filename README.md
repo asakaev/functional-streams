@@ -44,7 +44,7 @@ Leaving the Log scope
 ```
 
 ### Почитать
-* [Machines](https://www.dropbox.com/scl/fi/uleqqg81r41iz74ifj79h/Machines.pdf), Rúnar Óli Bjarnason
+* [Machines](https://disk.yandex.ru/i/xEKEJZ5xJAsx2w), Rúnar Óli Bjarnason
 * [Folds and unfolds all around us](http://conal.net/talks/folds-and-unfolds.pdf), Conal Elliott
 
 ### Посмотреть
