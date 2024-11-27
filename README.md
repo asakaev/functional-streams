@@ -1,9 +1,6 @@
 ## Функциональные стримы
 
-[Доклад на Joker 2024](https://jokerconf.com/talks/381e52f950f44e738836922e753f6818/).
-
-### Поддержите PR реакцией или комментарием
-[Add Flux.unfold #3897](https://github.com/reactor/reactor-core/pull/3897)
+[Смотреть доклад на Joker 2024](https://vkvideo.ru/video-796_456240559).
 
 ### Моделирование процессов на Java
 Дополнение к докладу: примеры кода и материалы, показывающие, как использовать стримы на Java для моделирования процессов, управления временем и состоянием.
@@ -48,7 +45,7 @@ Leaving the Log scope
 * [Folds and unfolds all around us](http://conal.net/talks/folds-and-unfolds.pdf), Conal Elliott
 
 ### Посмотреть
-[DDDamn good! на Joker 2021](https://vk.com/video-796_456240246)
+[DDDamn good! на Joker 2021](https://vkvideo.ru/video-796_456240246)
 
 ### Благодарности
 * [Александр Нозик](https://jokerconf.com/persons/c40622f2dc3a44169290f05771792410/)
