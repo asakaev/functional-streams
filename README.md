@@ -41,8 +41,8 @@ Leaving the Log scope
 ```
 
 ### Почитать
-* [Machines](https://disk.yandex.ru/i/xEKEJZ5xJAsx2w), Rúnar Óli Bjarnason
-* [Folds and unfolds all around us](http://conal.net/talks/folds-and-unfolds.pdf), Conal Elliott
+* [Machines](https://disk.yandex.ru/i/xEKEJZ5xJAsx2w). Rúnar Óli Bjarnason.
+* [Folds and unfolds all around us](http://conal.net/talks/folds-and-unfolds.pdf). Conal Elliott.
 
 ### Посмотреть
 [DDDamn good! на Joker 2021](https://vkvideo.ru/video-796_456240246)
