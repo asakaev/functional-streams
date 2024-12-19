@@ -45,7 +45,8 @@ Leaving the Log scope
 * [Folds and unfolds all around us](http://conal.net/talks/folds-and-unfolds.pdf). Conal Elliott.
 
 ### Посмотреть
-[DDDamn good! на Joker 2021](https://vkvideo.ru/video-796_456240246)
+* [Процесс на F[Scala] 2024](https://vkvideo.ru/video-226874299_456239077)
+* [DDDamn good! на Joker 2021](https://vkvideo.ru/video-796_456240246)
 
 ### Благодарности
 * [Александр Нозик](https://jokerconf.com/persons/c40622f2dc3a44169290f05771792410/)
